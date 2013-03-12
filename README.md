@@ -31,4 +31,4 @@ Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5
       "Czas powstania zabytku" : "XII w."
     },
 ```
-Oczyszczone dane znajdują się [tu](https://github.com/alka74a/Zabytki_Romanskie/blob/master/dane_alka74a.json)
+Oczyszczone dane znajdują się tu: [dane_alka74a.json](https://github.com/alka74a/Zabytki_Romanskie/blob/master/dane_alka74a.json)
