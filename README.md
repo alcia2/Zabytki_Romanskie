@@ -2,7 +2,7 @@ Zabytki romańskie w Polsce
 ==========================
 
 ## Przykładowe dane
----json
+'''Json
     {
       "Miejscowość" : "Brzeg Głogowski",
       "Województwo" : "Województwo dolnośląskie",
