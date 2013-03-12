@@ -1,8 +1,7 @@
 Zabytki romańskie w Polsce
 ==========================
 
-Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5%84skie_w_Polsce),  
-zostały oczyszczone narzędziem [Google Refine](http://code.google.com/p/google-refine/). 
+Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5%84skie_w_Polsce), zostały oczyszczone narzędziem [Google Refine](http://code.google.com/p/google-refine/). 
 
 ## Opis działania
 
