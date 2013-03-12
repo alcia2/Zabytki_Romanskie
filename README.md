@@ -2,7 +2,7 @@ Zabytki romańskie w Polsce
 ==========================
 
 ## Przykładowe dane
-'''Json
+```json
     {
       "Miejscowość" : "Brzeg Głogowski",
       "Województwo" : "Województwo dolnośląskie",
@@ -21,4 +21,4 @@ Zabytki romańskie w Polsce
       "Nazwa zabytku" : "kościół św. Piotra",
       "Czas powstania zabytku" : "XII w."
     },
----
+```
