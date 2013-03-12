@@ -1,0 +1,496 @@
+{
+  "rows" : [
+    {
+      "Miejscowość" : "Brzeg Głogowski",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "Kościół Bożego Ciała",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Głogów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "zamek książęcy",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Głogów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół św. Piotra",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Głogów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kolegiata Wniebowzięcia NMP",
+      "Czas powstania zabytku" : "XIII w. "
+    },
+    {
+      "Miejscowość" : "Głogów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół św. Mikołaja",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Nowy Kościół",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " ruiny kościoła Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Pastuchów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół św. Barbary",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Pielgrzymka ",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół Narodzenia Najświętszej Marii Panny",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Proszków",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "  kościół św. Anny",
+      "Czas powstania zabytku" : " XIV w."
+    },
+    {
+      "Miejscowość" : "Raciborowice Górne",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "  kościół św. Michała Archanioła",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Sędziszowa ",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " ruiny kościoła św. Katarzyny",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Sokołowiec",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół parafialny św. Jadwigi",
+      "Czas powstania zabytku" : " XIII w"
+    },
+    {
+      "Miejscowość" : "Środa Śląska",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół św. Andrzeja",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Święta Katarzyna ",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół obronny św. Katarzyny Aleksandryjskiej",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Środa Śląska",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół św. Piotra i Pawła",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Tymowa ",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół Najświętszej Marii Panny",
+      "Czas powstania zabytku" : "XIII w. "
+    },
+    {
+      "Miejscowość" : "Ujazd Górny",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół św. Marcina",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Wądroże Wielkie",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół Matki Bożej Różańcowej ",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Wierzbna ",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół Wniebowzięcia NMP",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Wrocław",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "kościół św. Idziego",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Wrocław",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "katedra św. Jana Chrzciciela",
+      "Czas powstania zabytku" : "X-XII w."
+    },
+    {
+      "Miejscowość" : "Zbylutów",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : "wiejski kościół parafialny pw. Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " XIII"
+    },
+    {
+      "Miejscowość" : "Złotoryja",
+      "Województwo" : "Województwo dolnośląskie",
+      "Nazwa zabytku" : " kościół NMP - część wschodnia",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Inowrocław",
+      "Województwo" : "Województwo kujawsko-pomorskie",
+      "Nazwa zabytku" : "Kościół Imienia Najświętszej Maryi Panny ",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Strzelno",
+      "Województwo" : "Województwo kujawsko-pomorskie",
+      "Nazwa zabytku" : "kościół Świętej Trójcy i Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Podgórze ",
+      "Województwo" : "Województwo lubelskie",
+      "Nazwa zabytku" : " kościół Chrystusa Pana Zbawiciela",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Drągowina ",
+      "Województwo" : "Województwo lubuskie",
+      "Nazwa zabytku" : " kościół Wniebowstąpienia Pańskiego",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Drzeńsko ",
+      "Województwo" : "Województwo lubuskie",
+      "Nazwa zabytku" : " kościół Jezusa Miłosiernego",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Szprotawa|Iława",
+      "Województwo" : "Województwo lubuskie",
+      "Nazwa zabytku" : " kościół św. Andrzeja",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Kowalów ",
+      "Województwo" : "Województwo lubuskie",
+      "Nazwa zabytku" : "  kościół św. Piotra i Pawła",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Stary Żagań",
+      "Województwo" : "Województwo lubuskie",
+      "Nazwa zabytku" : " kościół wiejski",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Inowłódz",
+      "Województwo" : "Województwo łódzkie",
+      "Nazwa zabytku" : "kościół św. Idziego",
+      "Czas powstania zabytku" : " XI/XII w."
+    },
+    {
+      "Miejscowość" : "Strońsko",
+      "Województwo" : "Województwo łódzkie",
+      "Nazwa zabytku" : " kościół św. Urszuli i 11 Tysięcy Dziewic",
+      "Czas powstania zabytku" : " XIII w"
+    },
+    {
+      "Miejscowość" : "Sulejów",
+      "Województwo" : "Województwo łódzkie",
+      "Nazwa zabytku" : "Opactwo cystersów",
+      "Czas powstania zabytku" : " XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Tum ",
+      "Województwo" : "Województwo łódzkie",
+      "Nazwa zabytku" : "Kolegiata NMP i św. Aleksego",
+      "Czas powstania zabytku" : " XII w"
+    },
+    {
+      "Miejscowość" : "Żarnów ",
+      "Województwo" : "Województwo łódzkie",
+      "Nazwa zabytku" : " kościół św. Mikołaja",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Czchów",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : "  Romańska wieża zamkowa",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Dziekanowice ",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : " Sanktuarium Macierzyństwa NMP",
+      "Czas powstania zabytku" : "XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Kraków",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : "rotunda Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " X/XI w."
+    },
+    {
+      "Miejscowość" : "Kraków",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : "kościół św. Gereona ",
+      "Czas powstania zabytku" : " XI w. "
+    },
+    {
+      "Miejscowość" : "Kraków",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : "kościół Najświętszego Salwatora",
+      "Czas powstania zabytku" : " X-XII w."
+    },
+    {
+      "Miejscowość" : "Miechów",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : "  relikty pierwszego kościoła Bożogrobców",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Mogiła ",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : " opactwo cystersów z kościołem",
+      "Czas powstania zabytku" : " XIII w. "
+    },
+    {
+      "Miejscowość" : "Prandocin ",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : " kościół św. Jana Chrzciciela",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Tropie ",
+      "Województwo" : "Województwo małopolskie",
+      "Nazwa zabytku" : " kościół Świętych Pustelników Świerada i Benedykta",
+      "Czas powstania zabytku" : " XI/XII w."
+    },
+    {
+      "Miejscowość" : "Błonie",
+      "Województwo" : "Województwo mazowieckie",
+      "Nazwa zabytku" : "kościół parafialny św. Trójcy",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Czersk ",
+      "Województwo" : "Województwo mazowieckie",
+      "Nazwa zabytku" : " relikty kaplicy zamkowej",
+      "Czas powstania zabytku" : " XIII w. "
+    },
+    {
+      "Miejscowość" : "Czerwińsk nad Wisłą",
+      "Województwo" : "Województwo mazowieckie",
+      "Nazwa zabytku" : " kościół Zwiastowania Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Przemyśl",
+      "Województwo" : "Województwo podkarpackie",
+      "Nazwa zabytku" : " preromańska rotunda - relikty na Wzgórzu Zamkowym",
+      "Czas powstania zabytku" : " IX w."
+    },
+    {
+      "Miejscowość" : "Przemyśl",
+      "Województwo" : "Województwo podkarpackie",
+      "Nazwa zabytku" : " preromańskie monasterium na Wzgórzu Zamkowym",
+      "Czas powstania zabytku" : " IX w."
+    },
+    {
+      "Miejscowość" : "Gdańsk",
+      "Województwo" : "Województwo pomorskie",
+      "Nazwa zabytku" : " fundamenty  kościoła św. Mikołaja pod Halą Targową.",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Kałków ",
+      "Województwo" : "Województwo opolskie",
+      "Nazwa zabytku" : " kościół Narodzenia NMP i św. Jerzego",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Kępnica",
+      "Województwo" : "Województwo opolskie",
+      "Nazwa zabytku" : "  kościół Wniebowzięcia NMP",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Nysa",
+      "Województwo" : "Województwo opolskie",
+      "Nazwa zabytku" : " kościół św. Jakuba i św. Agnieszki",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Wierzbięcice",
+      "Województwo" : "Województwo opolskie",
+      "Nazwa zabytku" : " kościół św. Mikołaja",
+      "Czas powstania zabytku" : " XIV w."
+    },
+    {
+      "Miejscowość" : "Giebło",
+      "Województwo" : "Województwo śląskie",
+      "Nazwa zabytku" : " kościół św. Jakuba",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Goźlice",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : " kościół parafialny Wniebowzięcia NMP",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Końskie",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : " kolegiata św. Mikołaja i Wojciecha",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Mieronice ",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : " kościół św. Jakuba Starszego",
+      "Czas powstania zabytku" : "XIII w"
+    },
+    {
+      "Miejscowość" : "Mokrsko Dolne",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : " kościół Wniebowzięcia NMP",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Opatów",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : "Kolegiata św. Marcina",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Samborzec",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : " kościół św. Trójcy",
+      "Czas powstania zabytku" : " XIII w"
+    },
+    {
+      "Miejscowość" : "Skalbmierz",
+      "Województwo" : "Województwo świętokrzyskie",
+      "Nazwa zabytku" : "kościół św. Jana Chrzciciela",
+      "Czas powstania zabytku" : " XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Czerwona Wieś",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "  kościół św. Idziego",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Giecz",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : " kościół pw. NMP",
+      "Czas powstania zabytku" : " XI w."
+    },
+    {
+      "Miejscowość" : "Gniezno",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "kościół św. Jerzego",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Kazimierz Biskupi",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "kościół św. Marcina",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Kościelec ",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "  kościół św. Wojciecha",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Kościelec ",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : " kościół św. Andrzeja Apostoła",
+      "Czas powstania zabytku" : "XII w."
+    },
+    {
+      "Miejscowość" : "Kotłów",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : " kościół Narodzenia Najświętszej Marii Panny",
+      "Czas powstania zabytku" : " XII w."
+    },
+    {
+      "Miejscowość" : "Krobia",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : " kościół św. Idziego",
+      "Czas powstania zabytku" : " XII w"
+    },
+    {
+      "Miejscowość" : "Poznań",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "kościół św. Jana Jerozolimskiego za murami",
+      "Czas powstania zabytku" : " XI-XIII w."
+    },
+    {
+      "Miejscowość" : "Poznań",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "katedra św. Piotra i św. Pawła",
+      "Czas powstania zabytku" : " X-XI w."
+    },
+    {
+      "Miejscowość" : "Trzemeszno",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : " opactwo benedyktynów",
+      "Czas powstania zabytku" : " X/XI w."
+    },
+    {
+      "Miejscowość" : "Tulce",
+      "Województwo" : "Województwo wielkopolskie",
+      "Nazwa zabytku" : "Kościół Narodzenia Najświętszej Maryi Panny",
+      "Czas powstania zabytku" : " XIII w"
+    },
+    {
+      "Miejscowość" : "Banie",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : "  kościół MB Wspomożenia Wiernych",
+      "Czas powstania zabytku" : " XIII w"
+    },
+    {
+      "Miejscowość" : "Góralice",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : " kościół pod wezwaniem św. Stanisława BM",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Kamień Pomorski",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : "bazylika św. Jana Chrzciciela",
+      "Czas powstania zabytku" : " XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Kołbacz",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : " kościół w zespole klasztornym Cystersów",
+      "Czas powstania zabytku" : " XII/XIII w."
+    },
+    {
+      "Miejscowość" : "Moryń",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : "  bazylika romańska",
+      "Czas powstania zabytku" : "XIII w."
+    },
+    {
+      "Miejscowość" : "Piaseczno ",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : " kościół M.B. Królowej Różańca",
+      "Czas powstania zabytku" : " XIII w."
+    },
+    {
+      "Miejscowość" : "Rurka ",
+      "Województwo" : "Województwo zachodniopomorskie",
+      "Nazwa zabytku" : " kościół templariuszy",
+      "Czas powstania zabytku" : " XIII w."
+    }
+  ]
+}
